@@ -2,7 +2,7 @@
 
 
 ## Disclaimer
-Most of these programs are created using ChatGPT.
+Most of these programs are made with the help of ChatGPT.
 
 
 ## Questions
